@@ -1,9 +1,17 @@
 # Interactive Job Guide Cards
 
 A modern web UI showcasing career path steps with animated cards and hover effects.
+Invalid data! This is just a template for students to create from data a great visualization!
+
+## Technologies
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![Google Fonts](https://img.shields.io/badge/Google_Fonts-4285F4?style=flat&logo=google&logoColor=white)
+![CSS Animations](https://img.shields.io/badge/CSS_Animations-2C8EBB?style=flat&logo=css3&logoColor=white)
 
 ## Preview
-![Interactive Cards Preview](preview.png)
+![Interactive Cards Preview](preview.gif)
+
 Animated cards showcasing career path steps with smooth hover effects.
 
 ## Features
@@ -19,9 +27,3 @@ Animated cards showcasing career path steps with smooth hover effects.
 - Responsive design
 - Shadow effects
 - Custom background
-
-## Technologies
-- HTML5
-- CSS3 (Transforms, Gradients)
-- Google Fonts (Raleway)
-- Modern CSS animations
